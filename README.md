@@ -10,7 +10,7 @@ The website has the following specification -
 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-                                                       Home Section
+                                                     Home Section
 ![home](https://user-images.githubusercontent.com/77049553/142587928-372bad7d-914d-4fc8-8b4c-50e8dce60d3d.png)
                                     Contact Details Section
 ![home1](https://user-images.githubusercontent.com/77049553/142587955-9b474b10-bfec-46a9-ba23-2c6bda4ee520.png)
